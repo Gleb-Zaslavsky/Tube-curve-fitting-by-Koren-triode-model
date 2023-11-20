@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Nov 15 23:05:37 2023
-https://thepythoncode.com/assistant/code-converter/rust/
+
 @author: Chiffa
 """
 import numpy as np
